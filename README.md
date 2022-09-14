@@ -12,3 +12,6 @@
 ### I - ISP (Interface Segregation Principle)
 - Uma classe não deve ser forçada a implementar interfaces e métodos que não irão utilizar.
 
+### D - DIP (Dependency Inversion Principle)
+- Dependa de abstrações e não de implementações.
+
